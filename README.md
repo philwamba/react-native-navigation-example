@@ -6,10 +6,10 @@ React native navigation app example for Android using Expo.
 
 ```bash
 # clone mapview-mapbox project
-git clone git@github.com:philwamba/mapview-mapbox.git
+git clone git@github.com:philwamba/react-navigation-example.git
 
-# open mapview-mapbox directory
-cd mapview-mapbox
+# open project directory
+cd react-navigation-example
 
 # install dependencies
 yarn install
@@ -18,7 +18,7 @@ yarn install
 expo start
 ```
 
-## :paperclip: Screenshots
+## :paperclip: Screenshots (3)
 
 <img src="assets/screenshot1.png">
 <img src="assets/screenshot2.png">
