@@ -1,6 +1,6 @@
 # :books: react-navigation-example
 
-A react native navigation app example for Android using Expo.
+React native navigation app example for Android using Expo.
 
 ## :hammer: Setup
 
@@ -20,6 +20,6 @@ expo start
 
 ## :paperclip: Screenshots
 
-<img src="screenshot1.png">
-<img src="screenshot2.png">
-<img src="screenshot3.png">
+<img src="assets/screenshot1.png">
+<img src="assets/screenshot2.png">
+<img src="assets/screenshot3.png">
